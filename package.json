@@ -54,7 +54,7 @@
     "@rescripts/rescript-use-babel-config": "0.0.12",
     "babel-plugin-i18next-extract": "^0.8.3",
     "babel-plugin-module-resolver": "^4.1.0",
-    "compression-webpack-plugin": "^6.0.2",
+    "compression-webpack-plugin": "^8.0.1",
     "cross-fetch": "^3.1.4",
     "dotenv": "^10.0.0",
     "generate-json-webpack-plugin": "^1.0.0",
