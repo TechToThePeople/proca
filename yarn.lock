@@ -5446,10 +5446,10 @@ functional-red-black-tree@^1.0.1:
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
 
-generate-json-webpack-plugin@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/generate-json-webpack-plugin/-/generate-json-webpack-plugin-1.0.0.tgz#518e762eb8a152f7a8cc2af56172c0dc58dfa989"
-  integrity sha512-VX3hYIHuVRGH44pz2c1/QonRvCLa7pzw1dP2pisRiRhVx7pl5/mkG+e/FL2nTAJTc6k8PDVI8npBA2WUH3YG3w==
+generate-json-webpack-plugin@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/generate-json-webpack-plugin/-/generate-json-webpack-plugin-2.0.0.tgz#cf1fb394da2c8dd8d3c15bf25ba31badba0a5adb"
+  integrity sha512-WVEHXiES7YwjLAjWquC5+IspZM4Pwtx1yHlHTBXHkp38HVjnHJo29PxLniWPSyiB539iDgeAcMNUBStrixx3Jw==
 
 gensync@^1.0.0-beta.1, gensync@^1.0.0-beta.2:
   version "1.0.0-beta.2"
